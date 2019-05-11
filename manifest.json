@@ -1,7 +1,7 @@
 {
-  "name": "My Onsen UI PWA",
-  "short_name": "Onsen PWA",
-  "start_url": "/",
+  "name": "JPY2TWD",
+  "short_name": "JPY2TWD",
+  "start_url": "/jpy2twd",
   "display": "standalone",
   "theme_color": "#ef4e2a",
   "background_color": "#fff",
